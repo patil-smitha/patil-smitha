@@ -18,7 +18,7 @@ Im currently studying in my 4<sup>th</sup> year of Enginering at CMR University
 September, 2022 - August, 2023
 Worked on researching various datasets and gathering information regarding intrusion detection systems
  
-####  ******Visualization of Winter Olympics***
+####  ***Visualization of Winter Olympics***
   ---
 January, 2020 - July, 2020
 Gathered data on the past 10 Winter Olympics data and visualized accordingly
