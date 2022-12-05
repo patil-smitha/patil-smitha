@@ -13,7 +13,7 @@ Im currently studying in my 4<sup>th</sup> year of Enginering at CMR University
 
 ### 👩‍💼 Projects
 
-####  Intrusion Detection System
+####  **Intrusion Detection System**
   ---
 September, 2022 - August, 2023
 Worked on researching various datasets and gathering information regarding intrusion detection systems
