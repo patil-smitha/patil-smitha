@@ -10,23 +10,23 @@
 ####  ***Intrusion Detection System***
   ---
 September, 2022 - August, 2023
-Worked on researching various datasets and gathering information regarding intrusion detection systems.
+<p>Worked on researching various datasets and gathering information regarding intrusion detection systems.</p>
  
 ####  ***Visualization of Winter Olympics***
   ---
 January, 2020 - July, 2020
-Gathered data on the past 10 Winter Olympics data and visualized accordingly.
+<p>Gathered data on the past 10 Winter Olympics data and visualized accordingly.</p>
   
 #### ***Detection of Covid-19 from chest X-ray images using CNN***
   ---
 October, 2022 - December, 2022
-An automated Covid-19 screening model is designed to identify the patients suffering from this disease by
-using their chest X-ray images.
+<p>An automated Covid-19 screening model is designed to identify the patients suffering from this disease by
+using their chest X-ray images.</p>
 
 #### ***Hyper-Parameter Optimization Of Machine Learning Algorithm***
 ---
 October, 2022 - November, 2022
-In this project, optimizing of hyper-parameters of common machine learning models are studied.
+<p>In this project, optimizing of hyper-parameters of common machine learning models are studied.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
