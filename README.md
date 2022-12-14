@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smitha Patil</h1>
-<h3 align="center">Im currently studying various thing at CMR University(Information Technology)</h3>
+<h3 align="center">I'm currently studying various thing at CMR University(Information Technology)</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,4 +35,4 @@ In this project, optimizing of hyper-parameters of common machine learning model
 <a href="https://instagram.com/patil._.smitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patil._.smitha" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/patilsmitha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="patilsmitha" height="30" width="40" /></a>
 </p>
-### @smithap1022@gmail.com
+@smithap1022@gmail.com
