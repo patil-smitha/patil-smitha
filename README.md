@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smitha Patil</h1>
-<h3 align="center">I'm currently studying various thing at CMR University(Information Technology)</h3>
+<h3 align="center">I'm working on myself to become a good Data Scientist. I also love astronomy, so I'm also an Astronomy Enthusiast.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
